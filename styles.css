@@ -6,6 +6,7 @@
   --accent: #4a6b5a;
   --page: #f7f4ec;
   --sans: "DM Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --display: "Space Grotesk", "DM Sans", "Segoe UI", Arial, sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
 }
 
@@ -99,8 +100,9 @@ h3 {
 
 h1 {
   margin-bottom: 24px;
-  font-family: var(--sans);
-  font-size: 40px;
+  font-family: var(--display);
+  font-size: 41px;
+  font-weight: 500;
   letter-spacing: 0;
   line-height: 1.12;
 }
