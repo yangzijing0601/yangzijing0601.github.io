@@ -1,0 +1,15 @@
+# Keep source documents and personal materials out of the public repository.
+*.pdf
+*.pptx
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.webp
+!assets/profile.jpg
+
+# Local preview and editor files.
+.vscode/
+.idea/
+*.log
+
