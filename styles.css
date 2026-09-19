@@ -287,6 +287,13 @@ h2 {
   line-height: 1.4;
 }
 
+.experience-program {
+  margin-bottom: 1px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.4;
+}
+
 .experience-location {
   margin-bottom: 12px;
   color: var(--muted);
